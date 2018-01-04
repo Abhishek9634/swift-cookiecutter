@@ -1,8 +1,8 @@
 {
-    "name" : "Fueled-iOS",
+    "name" : "Demo",
     "bundle_identifier_prefix" : "com.fueled",
     "full_name": "Fueled",
     "email": "ritesh@fueled.com",
     "organization_name" : "Fueled",
-    "release_date": "{% now 'local' %}",
+    "release_date": "{% now 'local' %}"
 }
